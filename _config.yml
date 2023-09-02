@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hello Blog
+title: Yulangz's Blog
 subtitle: ''
 description: ''
 keywords:
-author: user
-language: en
+author: yulangz
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://efficient-obsidian-blog-nine.vercel.app/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
